@@ -32,13 +32,15 @@ Part of data:<br />
  python=3.6.9 or higher
 
 # Steps
-##Step 1
-<h2>step1.5</h2>
+<h2>Step 1</h2>
 <br />
 Get valid entities: in this project, a valid entity must have at least a type and a category, which means that it should be in both 'categories file' and 'types file'(you have download before).
 
-##Step 2
+<h2>Step 2</h2>
+<br />
 
-##Step 3
+<h2>Step 3</h2>
+<br />
 
-##Step 4
+<h2>Step 4</h2>
+<br />
