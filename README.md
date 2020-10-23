@@ -38,6 +38,7 @@ In this project, a valid entity must have at least a type and a category, which 
 
 <h2>Step 2</h2>
 <br />
+Remains to be completed......
 
 <h2>Step 3</h2>
 <br />
