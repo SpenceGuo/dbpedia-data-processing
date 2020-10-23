@@ -16,7 +16,7 @@ Part of data:<br />
 <p><img src="images/type.jpg"></p>
 <p><a href="http://downloads.dbpedia.org/3.9/en/instance_types_en.nt.bz2">Click here </a>to download</p>
 
->Description
+>Descriptions
 
 Part of data:<br />
 <p><img src="images/description.jpg"></p>
@@ -33,6 +33,7 @@ Part of data:<br />
 
 # Steps
 ##Step 1
+<br />
 Get valid entities: in this project, a valid entity must have at least a type and a category, which means that it should be in both 'categories file' and 'types file'(you have download before).
 ##Step 2
 
