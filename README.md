@@ -35,6 +35,7 @@ Part of data:<br />
 ##Step 1
 <br />
 Get valid entities: in this project, a valid entity must have at least a type and a category, which means that it should be in both 'categories file' and 'types file'(you have download before).
+
 ##Step 2
 
 ##Step 3
