@@ -12,17 +12,18 @@ Part of data:<br />
 >Types
 
 Part of data:<br />
-<p><a href="http://downloads.dbpedia.org/3.9/en/instance_types_en.nt.bz2">Click here </a>to download</p>
 <p><img src="images/type.jpg"></p>
+<p><a href="http://downloads.dbpedia.org/3.9/en/instance_types_en.nt.bz2">Click here </a>to download</p>
 
 >Description
 
 Part of data:<br />
-<p><a href="http://downloads.dbpedia.org/3.9/en/short_abstracts_en.nt.bz2">Click here </a>to download</p>
 <p><img src="images/description.jpg"></p>
+<p><a href="http://downloads.dbpedia.org/3.9/en/short_abstracts_en.nt.bz2">Click here </a>to download</p>
 
 >Labels
 
 Part of data:<br />
-<p><a href="http://downloads.dbpedia.org/3.9/en/labels_en.nt.bz2">Click here </a>to download</p>
 <p><img src="images/label.jpg"></p>
+<p><a href="http://downloads.dbpedia.org/3.9/en/labels_en.nt.bz2">Click here </a>to download</p>
+
