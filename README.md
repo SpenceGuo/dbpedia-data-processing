@@ -2,6 +2,7 @@
  This project show that how to process the dbpedia data.
  
 # Download the Dataset
+ Download the following 4 dataset files and unzip them to the 'dataset' folder
 
 >Categories
 
